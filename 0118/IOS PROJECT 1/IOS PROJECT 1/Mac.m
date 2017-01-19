@@ -22,5 +22,14 @@
     return nil;
 }
 
+- (id)run {
+    
+    return nil;
+}
+
+- (id)talk {
+    
+    return nil;
+}
 
 @end
